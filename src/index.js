@@ -301,6 +301,6 @@ export default class Swiper extends React.Component {
     autoplayTimeout: 0,
     swipingEnabled: true,
     buttonsEnabled: true,
-    prevButtonText: "prev",
-    nextButtonText: "next",
+    prevButtonText: "PREV",
+    nextButtonText: "NEXT",
   };
